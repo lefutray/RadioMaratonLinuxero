@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
     boolean started = false;
 
     //Stream
-    String stream = "http://200.24.229.253:8000/maratonlinuxero.ogg";
+    String stream = "https://emision.maratonlinuxero.org:8443/audio-hd.ogg";
 
 
     @Override
